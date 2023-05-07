@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## Hi there 👋
-
 I'm Komeyl,
 
 I'm a flexible learner and detail-oriented individual with valuable experience in different fields such as Web Developing 

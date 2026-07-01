@@ -1,6 +1,5 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,100:1a3a7a&height=180&section=header&text=Komeyl%20Mohebian&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Front-End%20%26%20Mobile%20Developer&descSize=20&descAlignY=62&descColor=8ab4f8" alt="Komeyl Mohebian"/>
-</div>
+<h1 align="center">Komeyl Mohebian</h1>
+<h3 align="center">Senior Front-End & Mobile Developer</h3>
 
 <div align="center">
 
@@ -152,10 +151,6 @@ const komeyl = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Komeyl94&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Komeyl94&theme=tokyonight&column=7&no-frame=true&margin-w=4" alt="Trophies"/>
-</div>
-
 ---
 
 ## 🎓 Education
@@ -164,6 +159,4 @@ const komeyl = {
 
 ---
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a7a,100:0a0e27&height=100&section=footer" alt="footer"/>
-</div>
+<p align="center"><sub>Thanks for stopping by 👋</sub></p>
